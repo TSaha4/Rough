@@ -1,0 +1,34 @@
+| Algorithm / Problem                                 | Time Complexity                            |
+|------------------------------------------------------|---------------------------------------------|
+| **🟦 Simple Sieve**                                   | `O(n log log n)`                            |
+| **🟦 Segmented Sieve**                                | `O(n log log n)`                            |
+| **🟦 Incremental Sieve**                              | `O(n)` amortized                             |
+| **🟦 Euler’s Totient φ(n)**                           | `O(√n)`                                     |
+| **🟦 Euler Totient 1..n (sieve)**                     | `O(n log log n)`                            |
+| **🟦 Strobogrammatic Numbers**                        | `O(n × 5^(n/2))`                            |
+| **🟦 Chinese Remainder Theorem**                      | `O(k log M)`                                |
+| **🟦 Binary Palindrome Check**                        | `O(log n)`                                  |
+| **🟦 Euclid GCD / Extended Euclid**                   | `O(log n)`                                  |
+| **🟦 Karatsuba Multiplication**                       | `O(n^1.585)`                                |
+| **🟦 Swap two nibbles**                               | `O(1)`                                      |
+| **🟩 Toggle the Switch Problem**                      | `O(n)`                                      |
+| **🟩 Alice Apple Tree (prefix technique)**            | `O(n)`                                      |
+| **🟩 Max Product Subarray**                           | `O(n)`                                      |
+| **🟩 Max Hourglass Sum (matrix)**                     | `O(n²)`                                     |
+| **🟩 Equilibrium Sum**                                | `O(n)`                                      |
+| **🟩 Leaders in Array**                               | `O(n)`                                      |
+| **🟩 Majority Element (Boyer-Moore)**                 | `O(n)`                                      |
+| **🟩 Lexicographically First Palindromic String**     | `O(n)`                                      |
+| **🟩 Natural Sort Order**                             | `O(n log n)`                                |
+| **🟩 Quick Sort**                                     | `Avg: O(n log n) | Worst: O(n²)`           |
+| **🟩 Selection Sort**                                 | `O(n²)`                                     |
+| **🟩 Weighted Substring**                             | `O(n)`                                      |
+| **🟩 Manacher’s Algorithm**                           | `O(n)`                                      |
+| **🟩 Sorted Unique Permutations**                     | `O(n × n!)`                                 |
+| **🟩 Combinations (nCr Generation)**                  | `O(C(n, r))`                                |
+| **🟩 Josephus Problem**                               | `O(n)` / `O(1)` formula                     |
+| **🟧 Maze Solving (DFS/BFS)**                         | `O(V + E)`                                  |
+| **🟧 N Queens**                                       | `O(N!)`                                     |
+| **🟧 Warnsdorff’s Algorithm**                         | `O(N²)`                                     |
+| **🟧 Hamiltonian Cycle**                               | `O(N!)`                                     |
+| **🟧 Booth’s Algorithm**                              | `O(n)`                                      |
